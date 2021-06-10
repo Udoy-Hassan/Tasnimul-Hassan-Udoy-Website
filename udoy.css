@@ -1,0 +1,100 @@
+.first-part{
+    background-color: rgb(46, 45, 45);
+    height: 800px;
+}
+
+.one{
+   padding-top: 50px;
+   padding-left: 60px;
+   width: 50%;
+   float: left;
+   
+    
+}
+
+.two{
+    
+        border-left: 2px dashed rgb(243, 243, 243);
+        height: 500px;
+        float: left;
+        margin-top: 170px;
+        width: 10%;
+    
+} 
+
+.three{
+    padding-top: 270px;
+    color:white;
+    float: left;
+}
+
+
+
+#my-name{
+    color: rgb(241, 241, 241);
+    font-size: 150px;
+    
+   
+}
+
+
+.four{
+    
+    width: 30%;
+    text-align: left;
+    
+    height: 500px; 
+    float: left;
+}
+
+.second-part{
+    margin-top: 2px;
+    width: 100%;
+    background-color: rgb(48, 47, 47);
+    height: 500px;
+}
+
+.pic{
+    
+    height: 500px;
+    width: 410px;
+}
+
+.third-part{
+    
+    margin-top: 140px;
+
+}
+
+.five{
+    text-align: center;
+}
+
+.pic2{
+    height: 640px;
+    width: 520px;
+}
+
+.six{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.seven{
+    margin-top: 90px;
+    text-align: center;
+}
+
+.pic3{
+    height: 690px;
+    width: 520px;
+}
+
+.eight{
+    margin-top: 90px;
+    text-align: center;
+}
+.pic4{
+    height: 690px;
+    width: 530px;
+}
